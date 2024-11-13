@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.3",
+    "next-turnstile": "^1.0.0",
+    "uuid": "^11.0.3"
+  }
+}
