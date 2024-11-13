@@ -33,6 +33,7 @@
     "lucide-react": "^0.288.0",
     "next": "13.5.6",
     "next-auth": "^4.24.3",
+    "next-turnstile": "^1.0.0",
     "react": "^18",
     "react-day-picker": "^8.9.1",
     "react-dom": "^18",
@@ -42,6 +43,7 @@
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
     "use-places-autocomplete": "^4.0.1",
+    "uuid": "^11.0.3",
     "zod": "^3.22.4"
   },
   "devDependencies": {
